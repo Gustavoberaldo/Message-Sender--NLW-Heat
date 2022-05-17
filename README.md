@@ -139,7 +139,7 @@ npm run dev
 > Frontend
 
 ```bash
-# Abra a pasta Heat-react através do terminal
+# Abra a pasta Heat-react/web através do terminal
 
 # Execute a aplicação em modo desenvolvedor
 npm run dev
